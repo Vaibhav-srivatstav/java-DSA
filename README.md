@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
