@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
