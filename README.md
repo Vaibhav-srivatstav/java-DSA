@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
@@ -41,4 +43,20 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
