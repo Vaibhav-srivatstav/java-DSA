@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
