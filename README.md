@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
