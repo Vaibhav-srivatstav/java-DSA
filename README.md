@@ -24,10 +24,12 @@
 | ------- |
 | [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,4 +74,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
