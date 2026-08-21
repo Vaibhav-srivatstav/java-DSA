@@ -37,6 +37,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | [0189-rotate-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
