@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
 ## Minimax
@@ -122,6 +124,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
