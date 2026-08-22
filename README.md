@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0877-stone-game) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0075-sort-colors) |
@@ -149,5 +151,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-srivatstav/java-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
